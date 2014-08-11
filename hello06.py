@@ -12,4 +12,3 @@ print s[2:5]		#cde
 print s[:5]		#abcde
 print s[5:]		#fghi
 print s[2:-1]		#cdefgh
-
